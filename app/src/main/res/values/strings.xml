@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CertTest</string>
+    <string name="send_title">Send With</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="edit">Edit</string>
+    <string name="context_menu">Context Menu</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+</resources>
